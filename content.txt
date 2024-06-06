@@ -1,0 +1,27 @@
+<span id="u">user@tonggiabao.site</span>:<span id="b">~</span><span id="c">$</span> ssh root@Gia_Bảo -p 22
+Password: ********
+Last login: Wed Nov 22 15:00:43 2022 from localhost
+<br/>
+<span id="a">root@tonggiabao</span>:<span id="b">~</span><span id="c">#</span> ls
+about_me.txt
+<span id="a">root@tonggiabao</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
+Collecting_data .....
+.....
+successfully collect the data .
+Tong Gia Bao .... =><a href="https://www.facebook.com/TongGiaBao.User">BaroDev</a><=
+BaroDev site will redirect you from landing page :))
+
+
+
+
+
+
+
+
+<span id="a">@usertonggiabao </span>:<span id="b">~</span><span id="c">#</span> exit
+<p>Connection to tonggiabao closed.</p>
+<span id="u">user@tonggiabao</span>:<span id="b">~</span><span id="c">$</span> shutdown
+Done !
+
+              &#169; <a href='#'></a> BaroDev 
+         
